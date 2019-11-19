@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"lab2.zadanie2","c":"zad2","l":"draw(int, int, int)","url":"draw(int,int,int)"},{"p":"lab2.zadanie2","c":"zad2","l":"main(String[])","url":"main(java.lang.String[])"},{"p":"lab2.zadanie2","c":"zad2","l":"str"},{"p":"lab2.zadanie2","c":"zad2","l":"zad2()","url":"%3Cinit%3E()"}]
