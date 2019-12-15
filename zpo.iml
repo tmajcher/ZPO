@@ -41,5 +41,7 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="library" name="jsoup-1.12.1" level="project" />
+    <orderEntry type="library" name="org.javassist:javassist:3.26.0-GA" level="project" />
   </component>
 </module>
